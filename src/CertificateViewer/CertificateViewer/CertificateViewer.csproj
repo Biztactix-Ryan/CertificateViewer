@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <LangVersion>9</LangVersion>
+        <Title>CertificateViewer</Title>
+        <Authors>Dan Nielsen</Authors>
+        <Description>SSL certificate viewer.</Description>
+        <Copyright>2021</Copyright>
+        <PackageProjectUrl>https://github.com/danielsen/CertificateViewer</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/danielsen/CertificateViewer</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageTags>SSL TLS HTTPS SMTPS STARTTLS</PackageTags>
+    </PropertyGroup>
+
+</Project>

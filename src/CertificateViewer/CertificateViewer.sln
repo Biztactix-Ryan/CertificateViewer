@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificateViewer", "CertificateViewer\CertificateViewer.csproj", "{720AF96B-7CCF-4815-BEDB-81C8001C337B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertificateViewer.Tests", "CertificateViewer.Tests\CertificateViewer.Tests.csproj", "{415BADC1-6C77-4676-B160-5AFF45253CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{720AF96B-7CCF-4815-BEDB-81C8001C337B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720AF96B-7CCF-4815-BEDB-81C8001C337B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720AF96B-7CCF-4815-BEDB-81C8001C337B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720AF96B-7CCF-4815-BEDB-81C8001C337B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415BADC1-6C77-4676-B160-5AFF45253CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415BADC1-6C77-4676-B160-5AFF45253CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415BADC1-6C77-4676-B160-5AFF45253CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415BADC1-6C77-4676-B160-5AFF45253CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
